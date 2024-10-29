@@ -23,7 +23,7 @@
 
 
 ## 🎓 About me
-- I'm Software Engineer ❤️
+- I'm  Aspiring Data Analyst, Data engineer and Software Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with tech news, strumming my guitar, and immersing myself in music.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
