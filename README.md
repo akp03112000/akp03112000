@@ -62,7 +62,7 @@
 ### Achievements
 - [Microsoft Azure Badges 📛](https://learn.microsoft.com/en-us/users/me/achievements#badges-section) <br> 
 - [Microsoft Azure Trophies 🏆](https://learn.microsoft.com/en-us/users/me/achievements#trophies-section) <br>
-- [Google Cloud 🏆 ](https://www.cloudskillsboost.google/public_profiles/68f116c5-73ca-4e74-b3e1-68855b4157aa) <br>
+- [Google Cloud 🏆 ](https://www.cloudskillsboost.google/public_profiles/b993d577-e60a-41fe-8cf6-75a237c99441) <br>
 <!-- ## Certification 🎓
 
 - [HashiCorp Certified: Terraform Associate (002)](--link -- ) <br> <br> -->
